@@ -1,3 +1,3 @@
 # netflix-clone
 <br>
-authour :Aarush Khandelwal
+author :Aarush Khandelwal
